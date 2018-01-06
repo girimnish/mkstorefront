@@ -1,6 +1,6 @@
-# blog
+# mkstorefront
 
-> A blog for my work 
+> Mero Kinmel Store Front
 
 ## Build Setup
 
