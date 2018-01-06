@@ -9,9 +9,7 @@
 </template>
 
 <script>
-import navBar from './nav/nav'
 export default {
-  components: { navBar },
   name: 'app'
 }
 </script>

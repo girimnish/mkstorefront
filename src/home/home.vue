@@ -1,7 +1,7 @@
 <template>
   <div class="home">
     <SearchSection></SearchSection>
-     <CategoriesSection></CategoriesSection>
+    <CategoriesSection></CategoriesSection>
     <FoodItemSection></FoodItemSection>
     <RestaurantsSection></RestaurantsSection>
     <AboutSection></AboutSection>
